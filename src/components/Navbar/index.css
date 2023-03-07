@@ -1,0 +1,36 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0.5rem;
+}
+
+.navbar img {
+  width: 4rem;
+}
+
+.price {
+  display: flex;
+  align-items: center;
+  background-color: purple;
+  color: white;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border-radius: 5px;
+}
+
+.cart-quantity {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  color: purple;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.icon {
+  margin-right: 5px;
+}
